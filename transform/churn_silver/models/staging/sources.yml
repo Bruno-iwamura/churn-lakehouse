@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: "Camada Bronze — dados raw ingeridos do Data Lake"
+    tables:
+      - name: crm
+      - name: transactions
+      - name: support
+      - name: engagement
+      - name: financial

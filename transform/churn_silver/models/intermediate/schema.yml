@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: int_customer_360
+    description: "Visão unificada de cada cliente — join de todos os silos"
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+      - name: plan
+        tests:
+          - not_null
+      - name: churned
+        tests:
+          - not_null
+      - name: tenure_days
+        tests:
+          - not_null

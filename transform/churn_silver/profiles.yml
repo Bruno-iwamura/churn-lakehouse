@@ -1,0 +1,9 @@
+churn_silver:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../../data/silver/churn_silver.duckdb"
+      threads: 4
+      extensions:
+        - parquet

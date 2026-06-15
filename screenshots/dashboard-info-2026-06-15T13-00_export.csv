@@ -1,0 +1,38 @@
+﻿Empresa,Plano,Indústria,Tenure (meses),MRR (R$),Health Score,Risco,Prob. Churn,MRR em Risco (R$),Principal Razão,Ação Recomendada
+Peixoto S/A,starter,Financeiro,4.7,299,13.6,high,,258.32,unpaid_last_3m,Manter acompanhamento padrão
+Vargas S/A,pro,Agronegócio,2,1899,14.5,high,,1623.17,unpaid_last_3m,Manter acompanhamento padrão
+Teixeira S/A,pro,Educação,33.9,1899,15.2,high,,1609.86,unpaid_last_3m,Acionar Customer Success para avaliação
+Aparecida,starter,Agronegócio,2.8,299,17.6,high,,246.48,unpaid_last_3m,Monitorar e enviar campanha de engajamento
+Marques,starter,Educação,2.6,299,17.7,high,,246.15,unpaid_last_3m,Monitorar e enviar campanha de engajamento
+Dias - ME,growth,Agronegócio,3.9,899,20.1,high,,718.02,unpaid_last_3m,Manter acompanhamento padrão
+Costa,starter,RH,33.9,299,20.5,high,,237.62,unpaid_last_3m,Acionar Customer Success para avaliação
+Silva,starter,Varejo,17.9,299,21.8,high,,233.94,unpaid_last_3m,Monitorar e enviar campanha de engajamento
+Martins Rios - EI,pro,Educação,13.3,1899,22.3,high,,1476.08,unpaid_last_3m,Acionar Customer Success para avaliação
+Vasconcelos e Filhos,growth,Saúde,34.7,899,22.8,high,,694.3,unpaid_last_3m,Acionar Customer Success para avaliação
+Almeida,growth,Serviços,2.8,899,25.6,high,,669.14,unpaid_last_3m,Manter acompanhamento padrão
+Almeida Ltda.,starter,Varejo,12.4,299,26.5,high,,219.83,unpaid_last_3m,"Reengajamento — cliente inativo, agendar onboarding"
+Moura S/A,growth,Varejo,9.3,899,26.6,high,,660,unpaid_last_3m,Contato urgente — intenção de cancelamento detectada
+Brito,pro,RH,4.6,1899,27,high,,1386.92,unpaid_last_3m,Manter acompanhamento padrão
+Campos - ME,starter,Serviços,11.6,299,27.1,high,,217.87,unpaid_last_3m,Manter acompanhamento padrão
+Novais,starter,Varejo,4.2,299,27.2,high,,217.73,unpaid_last_3m,Manter acompanhamento padrão
+Lima Silveira - ME,starter,RH,7.4,299,30.3,high,,208.28,unpaid_last_3m,Acionar Customer Success para avaliação
+Nascimento da Rosa S/A,starter,Saúde,3.8,299,31.1,high,,206.07,unpaid_last_3m,Manter acompanhamento padrão
+Sales,growth,Serviços,7.4,899,31.2,high,,618.61,unpaid_last_3m,Monitorar e enviar campanha de engajamento
+Novaes e Filhos,growth,Educação,3.1,899,31.7,high,,613.63,unpaid_last_3m,Manter acompanhamento padrão
+Sá da Paz Ltda.,pro,Saúde,4.7,1899,31.9,high,,1293.36,unpaid_last_3m,Manter acompanhamento padrão
+da Luz,pro,Educação,10.9,1899,32.1,high,,1289.74,unpaid_last_3m,Manter acompanhamento padrão
+Borges,pro,Indústria,11.6,1899,32.9,high,,1274.63,unpaid_last_3m,Manter acompanhamento padrão
+Machado,starter,Serviços,33.4,299,33,high,,200.29,unpaid_last_3m,Monitorar e enviar campanha de engajamento
+Marques,starter,Saúde,6.8,299,33.3,high,,199.48,unpaid_last_3m,Manter acompanhamento padrão
+Cunha Fernandes - ME,starter,RH,9.5,299,34.4,high,,196.07,unpaid_last_3m,Manter acompanhamento padrão
+da Paz,starter,Agronegócio,12,299,36.1,high,,191.14,unpaid_last_3m,Manter acompanhamento padrão
+Casa Grande,growth,Educação,4.4,899,36.8,high,,567.73,unpaid_last_3m,Manter acompanhamento padrão
+Mendonça Dias - EI,growth,Financeiro,15.5,899,37.2,high,,564.58,unpaid_last_3m,Monitorar e enviar campanha de engajamento
+Moura,growth,Logística,23.6,899,37.4,high,,562.58,unpaid_last_3m,Acionar Customer Success para avaliação
+Barros,starter,Agronegócio,7.1,299,38.1,high,,185.04,unpaid_last_3m,Manter acompanhamento padrão
+Silva,growth,Agronegócio,2.5,899,38.5,high,,553.17,unpaid_last_3m,Manter acompanhamento padrão
+Vargas,starter,Financeiro,13.9,299,38.9,high,,182.7,unpaid_last_3m,Manter acompanhamento padrão
+Teixeira,growth,Tecnologia,9.2,899,39.4,high,,544.66,unpaid_last_3m,Acionar Customer Success para avaliação
+Ramos Abreu - EI,pro,Educação,5,1899,39.5,high,,1149.37,unpaid_last_3m,Manter acompanhamento padrão
+das Neves Martins - ME,starter,Indústria,4.9,299,39.7,high,,180.17,unpaid_last_3m,Manter acompanhamento padrão
+Siqueira Cardoso S/A,enterprise,Serviços,2.4,4999,39.9,high,,3004.6,unpaid_last_3m,Manter acompanhamento padrão

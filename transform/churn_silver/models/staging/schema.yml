@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: stg_crm
+    description: "Cadastro limpo de clientes"
+    columns:
+      - name: customer_id
+        description: "Identificador único do cliente"
+        tests:
+          - unique
+          - not_null
+      - name: plan
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['starter', 'growth', 'pro', 'enterprise']
+      - name: churned
+        tests:
+          - not_null
+
+  - name: stg_transactions
+    description: "Faturas limpas"
+    columns:
+      - name: transaction_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: amount_brl
+        tests:
+          - not_null
+
+  - name: stg_engagement
+    description: "Engajamento limpo"
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+      - name: engagement_level
+        tests:
+          - accepted_values:
+              values: ['high', 'medium', 'low']
+
+  - name: stg_support
+    description: "Suporte limpo"
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+      - name: nps_category
+        tests:
+          - accepted_values:
+              values: ['promoter', 'neutral', 'detractor']
