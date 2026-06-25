@@ -12,7 +12,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 BRONZE_PATH  = PROJECT_ROOT / "data" / "bronze"
 DUCKDB_PATH  = PROJECT_ROOT / "data" / "silver" / "churn_silver.duckdb"
 
-NEON_URL = "postgresql://neondb_owner:npg_olG6y7PVjqYd@ep-nameless-dust-acz29w5z-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+NEON_URL = ""
 
 MATERIALIZED = [
     "int_customer_transactions",
